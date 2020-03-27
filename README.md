@@ -9,3 +9,8 @@ Mobile da aplicação Be The Hero, contruida em React-Native usando expo e algum
 > Chamadas a api com NodeJs
 
 ![Example](https://i.ibb.co/XZnytCn/Captura-de-Tela-2020-03-27-a-s-12-43-40.png)
+![Example](https://i.ibb.co/VBQMfHC/Captura-de-Tela-2020-03-27-a-s-12-43-27.png)
+
+
+
+
